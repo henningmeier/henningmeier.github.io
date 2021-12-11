@@ -26,9 +26,11 @@
         </div>
 		<!-- start h -->
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Lass uns quatschen!</h2>
+                <h2 class="section-heading">Impressum</h2>
                 <hr class="primary">
                 <p>Henning Meier</p>
+				<p>Frie-Vendt-Straße 16</p>
+				<p>48153 Münster</p>
             </div>
 		<!-- ende h -->			
     </div>
