@@ -4,7 +4,7 @@
             <h1>Moin, herzlich Willkommen auf meiner Website</h1>
             <hr>
             <p>Hier entsteht meine Internet-Präsenz.</p>
-            <a href="#about" class="btn btn-primary btn-xl page-scroll">Weiter stöbern</a>
+            <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
         </div>
     </div>
 </header>
